@@ -53,6 +53,7 @@ python3 main.py     # On Linux/Termux
 ```
 
 3. Enter the password when prompted to decrypt the tool.
+4. For Password Join our Telegram channel : t.me/sincryption and t.me/teamillusionofficial
 
 ## 🚀 Usage
 
