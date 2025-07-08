@@ -43,6 +43,7 @@ This repository serves as a practical example for learning about:
 ```
 git clone https://github.com/samay825/NGL-FloodX.git
 cd NGL-FloodX
+pip install -r requirements.txt
 ```
 
 2. Run the main script:
