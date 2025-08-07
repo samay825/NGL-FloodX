@@ -65,11 +65,10 @@ python main.py
 python3 main.py
 ```
 
-🔐 ZIP Password for Extraction
-<div style="display: flex; align-items: center; gap: 10px;">
-<code>samaykdobhaihesamjha1234567890#</code>
-<kbd onclick="navigator.clipboard.writeText('samaykdobhaihesamjha1234567890#')" style="cursor: pointer; background: #070101ff; border: 1px solid #ccc; padding: 2px 6px; border-radius: 4px;" title="Copy to clipboard">📋 Copy</kbd>
-</div>
+```markdown
+## 🔐 ZIP Password for Extraction
+samaykdobhaihesamjha1234567890#
+```
 
 
 ##
